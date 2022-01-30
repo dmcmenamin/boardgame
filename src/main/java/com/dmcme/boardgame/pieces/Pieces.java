@@ -6,8 +6,6 @@ import lombok.Getter;
 import lombok.ToString;
 
 /**
- * @author: Darren McMenamin
- * @Date: January 23rd 2022
  * Parent Class for Pieces
  * Captures the following:
  *  * Name of Piece
